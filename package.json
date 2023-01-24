@@ -1,8 +1,5 @@
 {
   "scripts": {
     "start": "json-server --watch db.json --port 3200"
-  },
-  "dependencies": {
-    "react-scripts": "^5.0.1"
   }
 }
